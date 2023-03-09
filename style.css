@@ -1,0 +1,62 @@
+.hell{
+    background: url("https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=712&q=80");
+    height: 670px;
+    /* width: 1200px; */
+    background-size: cover;
+}
+.bell{
+    background: url("https://e0.pxfuel.com/wallpapers/436/464/desktop-wallpaper-pastel-rainbow-background-on-rainbow-gradient-background-pastel-background.jpg");
+    height: 670px;
+    /* width: 1200px; */
+    background-size: cover;
+
+}
+.dell{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRY8EtOf0gTqkXaBQc5LlUzw-_erEpk0rEp4JxtthhNFfFOL2UCHkwBfnkSnmYd_5Ddco&usqp=CAU");
+    height: 670px;
+    /* width: 1200px; */
+    background-size: cover;
+
+}
+#us{
+    float: left;
+    margin-left: 70px;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+    font-family: 'Shantell Sans', cursive;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+.doit{
+    font-family: 'Dosis', sans-serif;
+    width: 600px;
+    height: 300px;
+    border-radius: 12px;
+    margin: 100px auto;
+    background-color: white;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+    /* float: left; */
+}
+#head{
+    font-family: 'Shantell Sans', cursive;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 10px;
+}
+.lay{
+    width: 600px;
+    height: 500px;
+    border-radius: 12px;
+    margin: 70px auto;
+    background-color: white;
+    padding: 20px;
+}
+#do{
+    width: 460px;
+}
